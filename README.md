@@ -6,7 +6,7 @@ which makes it a true puzzle game.
 
 # Executing
 
-To execute the game simply double click the 'labyrint.lnk' shortcut in the root folder, DOSBOX will take care of things.
+To execute the game simply double click the 'labyrint.bat' in the root folder, DOSBOX will take care of things.
 
 # Source File
 
