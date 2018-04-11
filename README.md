@@ -6,7 +6,7 @@ which makes it a true puzzle game. I created my sprites based on retro-games you
 
 # Executing
 
-To execute the game simply double click the 'labyrint.bat' in the root folder, DOSBOX will take care of things.
+To execute the game launch 'labyrint.bat' from the root folder, DOSBOX will take care of things.
 
 # Source File
 
